@@ -1,4 +1,5 @@
 # 说明
+ * 脚本都去重了
  * 个人研究学习自用，主要是为了自己方便
  * 合集加的最后结尾大佬们脚本,删了互助码和互助池，gua佬没删，需要互助池的可以用他们合集，结尾已经放了链接
  * 看到AV脚本群里 Windstill大佬说青蛙大佬也加入了，说我恰饭，那个贡献者是原来青蛙库改的不是有意的
@@ -285,9 +286,10 @@ ql repo https://github.com/panghu999/panghu.git "jd_"
 *  [@passerby-b](https://github.com/passerby-b/JDDJ.git)
 *  [@he1pu](https://github.com/he1pu/JDHelp.git)
 *  [@airacg](https://github.com/airacg/jd_task.git)
-*  [@ccwav](https://github.com/ccwav/QLScript.git)
+*  [@ccwav](https://github.com/ccwav/QLScript2.git)
 *  [@Zy143L](https://github.com/Zy143L/wskey.git)
 *  [@X1a0He](https://github.com/X1a0He/jd_scripts_fixed)
 *  [@AlterGu](https://github.com/AlterGu/qinglong_note)
 *  [@KingRan](https://github.com/KingRan/JD-Scripts)
 *  [@Aaron-lv](https://github.com/Aaron-lv/sync)
+*  [@zzfiu](https://github.com/zzfiu/jd.git)
