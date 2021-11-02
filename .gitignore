@@ -1,3 +1,5 @@
 #               表示此为注释,将被Git忽略
 model
 /.github
+README.md
+jd_README.md
