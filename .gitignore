@@ -3,7 +3,7 @@ model
 /.github
 README.md
 jd_README.md
-jd_cfdhb111.py
+#jd_cfdhb111.py
 /jd_AutoJs
 /jd_function
 /jd_utils
